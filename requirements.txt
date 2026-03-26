@@ -1,0 +1,7 @@
+torch
+sounddevice
+numpy
+transformers
+faster-whisper
+kokoro-onnx
+keyboard
